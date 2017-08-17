@@ -28,7 +28,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <ul class="nav nav-tabs">
-                        <li role="presentation"><a href="http://buku.gedhe.or.id">Home</a></li>
+                        <li role="presentation"><a href="index.php">Home</a></li>
                         <li role="presentation"><a href="add.php">Tambah Nomer</a></li>
                         <li role="presentation" class="active"><a href="about.php">About</a></li>
                     </ul>
